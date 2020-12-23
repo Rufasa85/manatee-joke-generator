@@ -1,0 +1,22 @@
+{
+  "name": "manatee-joke-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rufasa85/manatee-joke-generator.git"
+  },
+  "keywords": [
+    "jokes"
+  ],
+  "author": "Joe Rehfuss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rufasa85/manatee-joke-generator/issues"
+  },
+  "homepage": "https://github.com/Rufasa85/manatee-joke-generator#readme"
+}
