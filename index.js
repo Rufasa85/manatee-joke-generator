@@ -11,3 +11,4 @@ const manateeJokeMethods= {
     }
 }
 
+module.exports = manateeJokeMethods;
