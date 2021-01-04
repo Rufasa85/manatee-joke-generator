@@ -1,6 +1,10 @@
 # manatee-joke-generator
 
-## simple, easy to use manatee jokes!
+simple, easy to use manatee jokes!
+
+## installation
+
+`npm install manatee-joke-generator`
 
 ## example
 
