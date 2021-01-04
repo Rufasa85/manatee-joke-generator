@@ -22,5 +22,5 @@ console.log(joke);
 ```javascript
 const manateeJokes = require("manatee-joke-generator");
 
-manateeJokes.getRandomJoke()//=> {joke:"how do fish open their houses?", punchline:"manakeys!"}
+manateeJokes.getRandomJoke()//=> {setup:"how do fish open their houses?", punchline:"manakeys!"}
 ```
